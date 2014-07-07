@@ -1,0 +1,6 @@
+Ubuntu with bells & whistles
+
+The basic Ubuntu image is quite boring, only offering ubuntu-minimal.
+
+This is an ubuntu-standard based image with some goodies to start tinkering; it 
+might be too much for production use, but it's great for development.
